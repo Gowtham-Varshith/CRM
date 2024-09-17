@@ -1,6 +1,4 @@
-Here is the **full updated README.md** in code format:
 
-```md
 # Expense Management System using MERN Stack
 
 ## Project Description:
@@ -132,11 +130,9 @@ Add badges from sources like [shields.io](https://shields.io)
 - **Project Lead**: Gowtham Varshith Banothu
 - **Email**: gowthamb461@gmail.com
 - **GitHub**: [Gowtham's GitHub](https://github.com/Gowtham-Varshith)
-```
+
 
 ### Key Changes:
 - All credits are attributed to **Gowtham Varshith Banothu**.
 - Added Gowtham's **GitHub** and **LinkedIn** links.
 - Retained the overall structure of the project with updated references to your credentials.
-
-This should now be good to go! Let me know if any further edits are needed.
